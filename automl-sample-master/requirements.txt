@@ -1,0 +1,6 @@
+Flask==1.1.2
+protobuf==3.14.0
+google==2.0.2
+google-cloud==0.34.0
+google-api-python-client==1.7.9
+google-cloud-automl==0.10.0
